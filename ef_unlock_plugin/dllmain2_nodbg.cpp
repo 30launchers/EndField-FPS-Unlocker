@@ -433,7 +433,8 @@ void RunLogic()
 
     // --- 第一步：确定搜索起点的边界 ---
 
-    const int searchRange = 300;
+    // 扩大搜索范围 261003
+    const int searchRange = 715;
     uintptr_t startSearch = (firstAddr > searchRange) ? (firstAddr - searchRange) : 0;
 
     // 定义边界特征码: 00 00 00 00 00 00 ?? ?? 40

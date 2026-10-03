@@ -11,7 +11,7 @@
         <StackPanel Orientation="Vertical" VerticalAlignment="Center" >
 
             <Label Content="EndField FPS Unlocker"  VerticalAlignment="Center" FontFamily="Meiryo" FontSize="15" HorizontalAlignment="Center"/>
-            <Label Content="v1.2 _beta date:20260228" FontFamily="Meiryo" FontSize="13" HorizontalContentAlignment="Stretch" HorizontalAlignment="Center" Foreground="DarkBlue" Margin="5"/>
+            <Label Content="v1.3 _beta date:20261003" FontFamily="Meiryo" FontSize="13" HorizontalContentAlignment="Stretch" HorizontalAlignment="Center" Foreground="DarkBlue" Margin="5"/>
             <Label Content="Please keep the program in the background otherwise" FontFamily="Meiryo" FontSize="13" Foreground="#FFD51515" HorizontalAlignment="Center" FontWeight="Bold" Margin="5"/>
             <Label Content="the unlocking frame rate will not work!" HorizontalAlignment="Center" FontFamily="Meiryo" FontSize="13" Foreground="#FFE72A2A" FontWeight="Bold"/>
 
